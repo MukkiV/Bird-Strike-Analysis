@@ -1,89 +1,94 @@
-README
-🛫 Bird Strike Analysis for Aviation Safety: A Data-Driven Approach
-👤 Author
-Mukesh. V
-NIIT Data Science Program
-🧩 Project Overview
-This Tableau project provides a comprehensive data-driven analysis of global bird strike incidents (2000–2013) to identify trends, assess safety risks, and recommend effective strategies to improve aviation safety and operational efficiency.
-
-The analysis focuses on understanding when, where, and how bird strikes occur — and how airlines and airports can minimize financial, safety, and environmental impacts through data insights.
-
 🎯 Project Objectives
-Safety Improvements – Identify critical flight phases and risk patterns for better hazard mitigation.
 
-Regulatory Compliance – Track and improve accuracy in reporting and preventive measures.
+Safety Improvements – Identify high-risk flight phases and recurring patterns.
 
-Cost Reduction – Analyze financial losses across airlines and years to optimize maintenance efforts.
+Regulatory Compliance – Track improvements in reporting and environmental conditions.
 
-Wildlife Conservation – Understand species most involved in strikes and promote eco-friendly prevention.
+Cost Reduction – Quantify financial losses across years and airlines.
 
-Operational Efficiency – Reduce flight disruptions, delays, and maintenance time due to strikes.
+Wildlife Conservation – Identify species most involved in incidents and reduce ecological impact.
 
-📊 Dashboards Created
-Safety Improvements Dashboard – Shows flight phases most vulnerable to bird strikes.
+Operational Efficiency – Analyze disruptions, delays, and state-wise concentration of strikes.
 
-Wildlife Conservation Dashboard – Identifies top species involved and outcome severity.
+📊 Dashboards Included
 
-Operational Efficiency Dashboard – Highlights disruptions, top affected states, and flight impact.
+Safety Improvements Dashboard – Shows most vulnerable flight phases.
 
-Cost Reduction Dashboard – Breaks down yearly financial losses and airline-wise costs.
+Wildlife Conservation Dashboard – Identifies frequently involved species and strike severity.
 
-Regulatory Compliance Dashboard – Analyzes improvement in reporting and sky condition patterns.
+Operational Efficiency Dashboard – Highlights disruptions and top affected states.
 
-KPI & Strategic Insights Dashboard – Displays total strikes, injuries, cost metrics, and actionable insights.
+Cost Reduction Dashboard – Breaks down yearly losses and airline-wise costs.
+
+Regulatory Compliance Dashboard – Tracks reporting patterns and sky conditions.
+
+KPI & Strategic Insights Dashboard – Summarizes key metrics and actionable insights.
 
 📈 Key Findings
 ✈️ Safety Improvements
-Approach and Landing phases show the highest number of bird strikes.
 
-Over 24,000+ incidents occurred during the approach phase, demanding priority safety actions.
+Approach and Landing phases show the highest strike frequency.
+
+24,000+ incidents occurred during approach alone.
 
 🐦 Wildlife Conservation
-Unknown small birds, starlings, and pigeons are most frequently involved.
 
-Over 68,000 total strikes and 345 species recorded.
+Unknown small birds, starlings, and pigeons were most frequently involved.
+
+68,000+ total strikes and 345 species recorded.
 
 ⚙️ Operational Efficiency
-California, Texas, and Florida reported the most incidents.
 
-Majority of strikes caused no immediate impact, but required inspections and caused schedule delays.
+California, Texas, and Florida reported the highest number of incidents.
+
+Most strikes caused no immediate impact but required inspections and led to delays.
 
 💰 Cost Reduction
+
 Total estimated industry loss: $140+ million (2000–2013).
 
-Business and United Airlines accounted for the highest strike-related costs.
+Business and United Airlines accounted for the highest repair and operational costs.
 
 🌤️ Regulatory Compliance
-Reporting quality and frequency improved steadily until 2011.
 
-Surprisingly, 47% of strikes occurred under clear sky conditions, suggesting need for radar-based monitoring.
+Reporting improved steadily until 2011.
+
+47% of strikes occurred under clear skies, showing need for radar-based systems.
 
 📊 Key Performance Indicators (KPIs)
-Metric Value Total Strikes Recorded 68,649 Unique Species Involved 345 People Injured 21 Highest Strike Location (Dallas/Fort Worth) 2,933 Average Annual Cost $272,727 Frequent Sky Condition 47.4% under No Cloud conditions
-
+Metric	Value
+Total Strikes Recorded	68,649
+Unique Species Involved	345
+People Injured	21
+Highest Recorded Location	2,933 (Dallas/Fort Worth)
+Average Annual Cost	$272,727
+Most Frequent Sky Condition	47.4% under clear/no-cloud conditions
 💡 Strategic Recommendations
-Habitat Management – Reduce nesting and feeding grounds around airports.
 
-Enhanced Monitoring – Install bird-detection radar at high-risk airports.
+Habitat Management: Reduce nesting and feeding grounds near airports.
 
-Pilot Training – Conduct mandatory hazard awareness and response sessions.
+Enhanced Monitoring: Implement bird-detection radar at high-risk airports.
 
-Operational Focus – Apply preventive measures during Approach and Landing phases.
+Pilot Training: Train pilots for hazard recognition and response.
 
-Inspection Protocols – Standardize post-strike inspections regardless of impact severity.
+Operational Focus: Prioritize preventive measures during approach and landing.
+
+Inspection Protocols: Standardize post-strike inspections regardless of severity.
 
 🛠️ Tools & Technologies
-Tableau Desktop / Tableau Public – Dashboard creation & visualization
 
-MS Excel / CSV Files – Data cleaning and preprocessing
+Tableau Desktop / Tableau Public – Dashboard creation
 
-Data Sources – FAA Wildlife Strike Database (2000–2013)
+MS Excel / CSV – Data cleaning & preprocessing
 
-Design Tools – Gamma App (for presentation visuals)
+FAA Wildlife Strike Database (2000–2013) – Data source
+
+Gamma App – Design and presentation visuals
 
 🚀 Outcomes
-Built 6 detailed Tableau dashboards covering safety, wildlife, cost, and efficiency insights.
 
-Provided data-backed recommendations for aviation safety improvement.
+Built 6 comprehensive Tableau dashboards covering safety, wildlife, cost, and efficiency analysis.
 
-Demonstrated data visualization and storytelling for real-world aviation analytics.
+Provided data-backed insights and recommendations for improving aviation safety.
+
+Demonstrated effective data visualization, storytelling, and analytical capability.
